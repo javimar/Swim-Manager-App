@@ -19,19 +19,31 @@ main {
 	padding: 20px;
 }
 
+section {
+	padding: 10px;
+}
+
 h2 {
 	color: #3498db;
 	font-size: 28px;
 	margin-top: 0;
 }
 
+p {
+	line-height: 1.5;
+  }
+
+  
 ul {
 	margin: 0;
 	padding: 0;
+	list-style-position: inside;
 }
 
 li {
 	margin-bottom: 5px;
+	padding-left: 20px;
+	line-height: 1.5;
 }
 
 a {
